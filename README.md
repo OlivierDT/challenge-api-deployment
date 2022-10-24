@@ -6,6 +6,8 @@
 
 ## Usage
 
+https://a-funky-price-prediction-model.onrender.com/
+
 ## (Visuals)
 
 ## (Contributors)
